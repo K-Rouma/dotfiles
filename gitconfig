@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = akrame.elhajri@hotmail.com
+	name = Akrame ElHajri
